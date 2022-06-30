@@ -26,7 +26,7 @@ Live Coding - DIO
   
 
 
-Site direto do projeto: https://password-generator22.netlify.app/
+Site direto do projeto: https://spiderman-multiverse.netlify.app/
   
   Visualizar através do CodePen: https://codepen.io/lucas-dallavalle/pen/oNpRJdZ
 
