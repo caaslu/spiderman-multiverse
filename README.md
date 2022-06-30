@@ -10,7 +10,6 @@ Projeto desenvolvido através Live Coding - DIO , acompanhando passo a passo os 
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Codepen" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg">
 <img align="center" alt="Netlify" height="30" width="40" src="http://bricksdesign.com.br/wp-content/uploads/2022/04/netlify.svg" >
 </div>
 
@@ -29,7 +28,6 @@ Projeto desenvolvido através Live Coding - DIO , acompanhando passo a passo os 
 
 Site direto do projeto: https://spiderman-multiverse.netlify.app/
   
-  Visualizar através do CodePen: https://codepen.io/lucas-dallavalle/pen/oNpRJdZ
 
 
 # Autor
