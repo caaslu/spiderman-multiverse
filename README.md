@@ -1,7 +1,8 @@
 # Spider-Man Multiverse Live Coding 
 
 Multiverso Spider-Man: Criando um site com HTML, CSS e JavaScript
-Live Coding - DIO
+Projeto desenvolvido através Live Coding - DIO , acompanhando passo a passo os professores Diogo Mainardes e Michele Ambrosio.
+
 
 <div>
 <h3>🛠Tecnologias utilizadas:</h3>
