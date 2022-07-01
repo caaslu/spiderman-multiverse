@@ -1,6 +1,6 @@
 # Spider-Man Multiverse Live Coding 
 
-Projeto desenvolvido através Live Coding - DIO , acompanhando passo a passo os professores Diogo Mainardes e Michele Ambrosio.
+Projeto desenvolvido através do Live Coding - DIO , acompanhando passo a passo os professores Diogo Mainardes e Michele Ambrosio.
 
 
 <div>
