@@ -26,6 +26,8 @@ Projeto desenvolvido através do Live Coding - DIO , acompanhando passo a passo 
 
 
 Site direto do projeto: https://spiderman-multiverse.netlify.app/
+
+CodePen (Page Home): https://codepen.io/lucas-dallavalle/pen/NWYrMJG 
   
 
 
